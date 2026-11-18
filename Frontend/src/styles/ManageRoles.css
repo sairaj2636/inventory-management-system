@@ -1,0 +1,57 @@
+.manage-roles-container {
+  padding: 30px;
+}
+
+.manage-roles-container h2 {
+  margin-bottom: 20px;
+}
+
+.manage-roles-container form {
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  background-color: white;
+  padding: 20px;
+  margin: 20px 0;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+}
+
+.manage-roles-container input,
+.manage-roles-container textarea {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.manage-roles-container textarea {
+  min-height: 80px;
+}
+
+.manage-roles-container form button {
+  padding: 10px;
+  background-color: #2563eb;
+  color: white;
+  border: none;
+  border-radius: 4px;
+}
+
+.manage-roles-container table {
+  width: 100%;
+  margin-top: 15px;
+  border-collapse: collapse;
+  background-color: white;
+}
+
+.manage-roles-container th,
+.manage-roles-container td {
+  padding: 12px;
+  border: 1px solid #ddd;
+  text-align: left;
+}
+
+.manage-roles-container th {
+  background-color: #2563eb;
+  color: white;
+}

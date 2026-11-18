@@ -1,0 +1,25 @@
+.all-orders-container {
+  padding: 30px;
+}
+
+.all-orders-container h2 {
+  margin-bottom: 20px;
+}
+
+.all-orders-container table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: white;
+}
+
+.all-orders-container th,
+.all-orders-container td {
+  padding: 12px;
+  border: 1px solid #ddd;
+  text-align: left;
+}
+
+.all-orders-container th {
+  background-color: #2563eb;
+  color: white;
+}

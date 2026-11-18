@@ -1,0 +1,37 @@
+
+nav {
+  background-color: #222;
+  color: white;
+  padding: 15px 25px;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+nav div {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+}
+
+nav a:hover {
+  color: orange;
+}
+
+nav button {
+  padding: 8px 15px;
+  border: none;
+  background-color: #e74c3c;
+  color: white;
+  border-radius: 4px;
+}
+
+nav button:hover {
+  background-color: #c0392b;
+}

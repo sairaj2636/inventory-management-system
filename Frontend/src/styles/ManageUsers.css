@@ -1,0 +1,31 @@
+.manage-users-container {
+  padding: 30px;
+}
+
+.manage-users-container h2 {
+  margin-bottom: 20px;
+}
+
+.manage-users-container table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: white;
+}
+
+.manage-users-container th,
+.manage-users-container td {
+  padding: 12px;
+  border: 1px solid #ddd;
+  text-align: left;
+}
+
+.manage-users-container th {
+  background-color: #2563eb;
+  color: white;
+}
+
+.manage-users-container select {
+  padding: 7px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
